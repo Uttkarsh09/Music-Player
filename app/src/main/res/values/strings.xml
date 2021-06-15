@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="ask_read_permission">You need to give this permission in order to read the music files.</string>
+    <string name="give_permission">Give Permission</string>
+    <string name="start_time">0:00</string>
+    <string name="ChannelName">Music Info</string>
+    <string name="choose_a_song">Choose a song</string>
+</resources>
