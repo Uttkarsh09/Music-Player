@@ -7,4 +7,4 @@
 - Scans all the .mp3/.m4a/.wav files in your Downloads folder.
 - Pause and play songs.
 - Play next and previous songs.
-- Slider to skip to specifit time in the song.
+- Slider to skip to specific time in the song.
