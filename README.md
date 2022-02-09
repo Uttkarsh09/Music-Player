@@ -1,5 +1,5 @@
 # Music Player
-### _This is a very basic music player created in android (while learning)_
+### _This is a very basic music player made by me (while learning)_
 
 
 ### About the app
